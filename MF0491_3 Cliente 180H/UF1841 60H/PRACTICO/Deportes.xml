@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<deportistas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/_IFCD0210/MF0491_3%20Cliente%20180H/UF1841%2060H/PRACTICO/Deportes%20schema.xsd">
+  <deportista>
+    <deporte tipo="Atletismo"/>
+    <nombre>Usain Bolt</nombre>
+    <edad>32</edad>
+    </deportista>
+  <deportista>
+    <deporte tipo="Natación"/>
+    <nombre>Mark Spitz</nombre>
+    <edad>69</edad>
+  </deportista>
+  <deportista>
+  <deporte tipo="Baloncesto"/>
+  <nombre>Pau Gasol</nombre>
+  <edad>38</edad>
+  </deportista>
+  <deportsita>
+    <deporte tipo="Volleyball"/>
+    <nombre>Ivan Zaytsev</nombre>
+    <edad>30</edad>
+ </deportsita>
+</deportistas>
