@@ -1,0 +1,9 @@
+<!ELEMENT deportistas (deportista+, deportsita)>
+<!ELEMENT deportista (deporte, nombre, nacionalidad, edad)>
+<!ELEMENT deporte (#PCDATA)>
+<!ATTLIST deporte
+          type CDATA #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT nacionalidad (#PCDATA)>
+<!ELEMENT edad (#PCDATA)>
+<!ELEMENT deportsita (deporte, nombre, nacionalidad, edad)>
